@@ -1,2 +1,2 @@
 # Indonesian-Word-Calculator
-Calculator which math operation expressed in words.
+Calculator with math operation expressed in words.
